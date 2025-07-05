@@ -98,6 +98,7 @@
 
 - [Jdownloader](https://jdownloader.org/) – Gestor de descargas automatizadas  
 - [OBS](https://obsproject.com/es) – Grabación y streaming de video  
-- [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) – Lanzador para Minecraft  
+- [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) – Lanzador para Minecraft
+- [Ludusavi](https://github.com/mtkennerly/ludusavi) - Gestor de saves
 
 ---
